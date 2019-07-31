@@ -39,7 +39,7 @@ Now if you want to pause work on this task, simply hit it with
 taskname?>x
 ```
 This is good if you need to get up and make some tea, a new call comes in, someone comes over to
-disract you, you remember that you were actually meant to be working on something else etc.
+distract you, you remember that you were actually meant to be working on something else etc.
 This will record the current time and update the total time spent on that task accordingly.
 
 Note that if you attempt to create a new task before exiting the one you are currently working
